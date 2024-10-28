@@ -7,7 +7,7 @@
   <li><strong>DOMINATING BOYS Kabaddi Team Website  <a href="https://shakti5580.github.io/DOMINATING-BOYS-/"target="_blank">Dominating Boys</a></strong> 🏆  
     <p>Created a GitHub-hosted website for a kabaddi team, "DOMINATING BOYS," inspired by cultural values. The site features a matte black design with sections for team member profiles, event updates, and a Google Form for inquiries. Utilizing <strong>Firebase</strong> for backend functions like authentication and match notifications.</p>
   </li>
-  <li><strong>AgriCon Mobile Application <a href="https://shakti5580.github.io/Agricon/"target="_blank">Agricon</a></strong> 🌾  
+  <li><strong>AgriCon Mobile Application <a href="https://shaktisingh5580.github.io/Agricon/"target="_blank">Agricon</a></strong> 🌾  
     <p>Working on AgriCon, an app that connects farmers directly with consumers and retailers. Key features include:
       <ul>
         <li><strong>Product Listing System</strong> for grains, vegetables, seeds, and more, allowing farmers to showcase their products with images and details.</li>
