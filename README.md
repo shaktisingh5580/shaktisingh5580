@@ -19,9 +19,7 @@
       </ul>
     </p>
   </li>
-  <li><strong>Birthday Celebration Website</strong> 🎂  
-    <p>Built an interactive website to celebrate a friend's birthday. It includes a message screen, interactive options like "ONE MINUTE TIME MACHINE" and "MINIONS ARE WISHING," and an automatic video redirect feature. Designed for mobile with a sleek black-and-pink theme.</p>
-  </li>
+ 
   <li><strong>Bus Scheduling and Route Optimization</strong> 🚍  
     <p>Exploring efficient scheduling and route planning systems to improve operational efficiency in public transport. Interested in using automation to reduce errors, enhance reliability, and provide a smoother experience for commuters.</p>
   </li>
