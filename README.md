@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2>Projects</h2>
 
-<!--
-**shaktisingh5580/shaktisingh5580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li><strong>Programming for Losers (PFL)</strong> 💻  
+    <p>Co-founded PFL, a grassroots initiative aimed at creating a supportive community for coding enthusiasts. We connect like-minded individuals who share a love for technology and innovation, providing a platform for learning and collaboration outside of formal education.</p>
+  </li>
+  <li><strong>DOMINATING BOYS Kabaddi Team Website</strong> 🏆  
+    <p>Created a GitHub-hosted website for a kabaddi team, "DOMINATING BOYS," inspired by cultural values. The site features a matte black design with sections for team member profiles, event updates, and a Google Form for inquiries. Utilizing <strong>Firebase</strong> for backend functions like authentication and match notifications.</p>
+  </li>
+  <li><strong>AgriCon Mobile Application</strong> 🌾  
+    <p>Working on AgriCon, an app that connects farmers directly with consumers and retailers. Key features include:
+      <ul>
+        <li><strong>Product Listing System</strong> for grains, vegetables, seeds, and more, allowing farmers to showcase their products with images and details.</li>
+        <li><strong>Location-Based Filtering</strong> to help retailers find nearby farmers using <strong>Google’s API</strong>.</li>
+        <li><strong>Direct Messaging System</strong> for negotiating prices between farmers and buyers.</li>
+        <li><strong>Delivery Support</strong> for farmers needing assistance with logistics.</li>
+        <li><strong>Chatbot Assistance</strong> to guide users through the registration and product listing process, powered by <strong>OpenAI API</strong> and a custom chatbot built on <strong>Heroku</strong> and <strong>GitHub Pages</strong>.</li>
+        <li><strong>Unique Features</strong> like farm visits for quality inspection, sustainable farming promotions, and community-building tools to set AgriCon apart from existing solutions like KrishiHub and Ninjacart.</li>
+      </ul>
+    </p>
+  </li>
+  <li><strong>Birthday Celebration Website</strong> 🎂  
+    <p>Built an interactive website to celebrate a friend's birthday. It includes a message screen, interactive options like "ONE MINUTE TIME MACHINE" and "MINIONS ARE WISHING," and an automatic video redirect feature. Designed for mobile with a sleek black-and-pink theme.</p>
+  </li>
+  <li><strong>Bus Scheduling and Route Optimization</strong> 🚍  
+    <p>Exploring efficient scheduling and route planning systems to improve operational efficiency in public transport. Interested in using automation to reduce errors, enhance reliability, and provide a smoother experience for commuters.</p>
+  </li>
+  <li><strong>Simple Chatbot Project</strong> 🤖  
+    <p>Developing a web-based chatbot to assist users and demonstrate coding skills. Built using <strong>HTML</strong> and <strong>JavaScript</strong> with no backend, this chatbot aims to create interactive, AI-driven tools for user support.</p>
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills and Tools</h2>
