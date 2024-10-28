@@ -2,7 +2,7 @@
 
 <ul>
   <li><strong>Programming for Losers (PFL) <a href="https://shaktisingh5580.github.io/PROGRAMING-FOR-LOOSERS-CLUB-/"target="_blank">PFL</a></strong> 💻  
-    <p>Co-founded PFL, a grassroots initiative aimed at creating a supportive community for coding enthusiasts. We connect like-minded individuals who share a love for technology and innovation, providing a platform for learning and collaboration outside of formal education.</p>
+    <p>Founded PFL, a grassroots initiative aimed at creating a supportive community for coding enthusiasts. We connect like-minded individuals who share a love for technology and innovation, providing a platform for learning and collaboration outside of formal education.</p>
   </li>
   <li><strong>DOMINATING BOYS Kabaddi Team Website  <a href="https://shakti5580.github.io/DOMINATING-BOYS-/"target="_blank">Dominating Boys</a></strong> 🏆  
     <p>Created a GitHub-hosted website for a kabaddi team, "DOMINATING BOYS," inspired by cultural values. The site features a matte black design with sections for team member profiles, event updates, and a Google Form for inquiries. Utilizing <strong>Firebase</strong> for backend functions like authentication and match notifications.</p>
