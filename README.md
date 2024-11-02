@@ -32,7 +32,4 @@
 
 <h2>Skills and Tools</h2>
 
-### Shakti Singh 
-![My stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaktisingh5580&layout=compact&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&bg_color=0D1117&title_color=E0B422&text_color=C7C7C7&icon_color=E0B422&border_color=6E5494)
