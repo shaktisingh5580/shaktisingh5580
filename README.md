@@ -33,3 +33,4 @@
 <h2>STATS</h2>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&bg_color=0D1117&title_color=E0B422&text_color=C7C7C7&icon_color=E0B422&border_color=6E5494)
+![Metrics](https://metrics.lecoq.io/?template=classic&people=1&reactions=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FCalcutta)
