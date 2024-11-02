@@ -30,6 +30,6 @@
 
 <hr>
 
-<h2>Skills and Tools</h2>
+<h2>STATS</h2>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&bg_color=0D1117&title_color=E0B422&text_color=C7C7C7&icon_color=E0B422&border_color=6E5494)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&bg_color=0D1117&title_color=E0B422&text_color=C7C7C7&icon_color=E0B422&border_color=6E5494)
