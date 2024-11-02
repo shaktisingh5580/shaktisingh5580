@@ -31,3 +31,8 @@
 <hr>
 
 <h2>Skills and Tools</h2>
+
+### Shakti Singh 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
