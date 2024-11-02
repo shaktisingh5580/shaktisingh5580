@@ -33,4 +33,6 @@
 <h2>STATS</h2>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shaktisingh5580&show_icons=true&bg_color=0D1117&title_color=E0B422&text_color=C7C7C7&icon_color=E0B422&border_color=6E5494)
+![GitHub Metrics](https://github.com/shaktisingh5580/shaktisingh5580/blob/main/metrics.svg?raw=true)
+
 
