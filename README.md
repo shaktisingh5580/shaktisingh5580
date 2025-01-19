@@ -27,7 +27,7 @@ At PFL, we start as "losers" but grow into winners together. 💻✨
   - Delivery options and warehouse categorization.  
  
 
-### [Custom Chatbot]  
+    Custom Chatbot  
 - A simple chatbot built using HTML and JavaScript.  
 - **Use Case**: Assists farmers with registration and guidance in the AgriCon app.  
 
