@@ -18,7 +18,7 @@ At PFL, we start as "losers" but grow into winners together. 💻✨
   - Updates and notifications for upcoming matches.  
   - Integration with Firebase for backend functionality.  
 
-### [AgriCon](https://shaktisingh5580.github.io/Agricon-/)  
+### [AgriCon](https://shaktisingh5580.github.io/Agricon/)  
 - A mobile application connecting farmers directly with consumers and retailers.  
 - **Features**:  
   - Farm visits for produce quality inspection.  
