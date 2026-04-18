@@ -8,6 +8,13 @@ I architect autonomous vertical applications and agentic systems. From democrati
 
 ## 🚀 Featured Projects
 
+### 🚀 GeoGuard AI
+I built the **World's First SNN-Based Agentic Geospatial Compliance System**. 
+By replacing traditional deep learning with bio-inspired **Siamese Spiking Neural Networks (SNNs)**, I engineered a fully autonomous AI pipeline that analyzes satellite imagery, filters out planetary noise, and generates tamper-proof compliance evidence. 
+
+[👉 Check out the repository here](https://github.com/shaktisingh5580/PFL-SNN-BACKEND.git)
+
+
 ### 🤖 [Distributed Agentic System](https://github.com/shaktisingh5580/pfl-event-management--.git)
 **Multi-Agent Orchestration & System Architecture**
 *   **The Build:** Architected a complex multi-agent ecosystem focusing on autonomous interaction, state persistence, and specialized task execution.
