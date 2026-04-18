@@ -16,7 +16,7 @@ By replacing traditional deep learning with bio-inspired **Siamese Spiking Neura
 
 
 
-### 🤖 [Distributed Agentic System](https://github.com/shaktisingh5580/pfl-event-management--.git)
+### 🤖 [Distributed Agentic System](https://github.com/shaktisingh5580/pfl-event-management)
 **Multi-Agent Orchestration & System Architecture**
 *   **The Build:** Architected a complex multi-agent ecosystem focusing on autonomous interaction, state persistence, and specialized task execution.
 *   **Tech:** Orchestration framework for inter-agent communication, ensuring system scalability and deterministic logic.
