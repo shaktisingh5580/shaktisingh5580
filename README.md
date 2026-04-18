@@ -1,34 +1,77 @@
-# Hi there! 👋  
-Welcome to my GitHub profile! 
+## 👋 Hi there\!
 
-## 🚀 Projects  
+Welcome to my GitHub profile\! I'm a Computer Engineering student and AI-native builder focused on developing autonomous vertical applications and agentic systems.
 
-### [PFL(PROGRAMING FOR LOSERS )](https://shaktisingh5580.github.io/PROGRAMING-FOR-LOOSERS-CLUB-/)  
-A community-driven initiative by first-year students to connect coding enthusiasts.  
-- Focused on collaborative learning and mutual growth.  
-- Open to all, from beginners to advanced programmers.  
-- Not tied to any institution—just students helping students!  
+-----
 
-At PFL, we start as "losers" but grow into winners together. 💻✨
+## 🚀 Featured Projects
 
-### [DOMINATING BOYS Website](https://shakti5580.github.io/DOMINATING-BOYS-/)  
-- Official website for my kabaddi team, inspired by Lord Ram and Lord Hanuman.  
-- **Features**:  
-  - Team introduction and player profiles.  
-  - Updates and notifications for upcoming matches.  
-  - Integration with Firebase for backend functionality.  
+### **[AETHER-PARK (Smart Campus Parking)](https://www.google.com/search?q=https://github.com/shaktisingh5580/AETHER-PARK)**
 
-### [AgriCon](https://shaktisingh5580.github.io/Agricon/)  
-- A mobile application connecting farmers directly with consumers and retailers.  
-- **Features**:  
-  - Farm visits for produce quality inspection.  
-  - AI-based location filtering to find nearby farmers.  
-  - Direct messaging for negotiation between farmers and retailers.  
-  - Delivery options and warehouse categorization.  
- 
+An AI-driven parking management system designed for institutional campuses.
 
-   ### Custom Chatbot  
-- A simple chatbot built using HTML and JavaScript.  
-- **Use Case**: Assists farmers with registration and guidance in the AgriCon app.  
+  * **Tech Stack**: Python, YOLOv8, EasyOCR, Flask.
+  * **Core Features**: Real-time vehicle detection, automated license plate recognition (ALPR), and spot availability tracking to optimize campus traffic.
 
-Feel free to explore my repositories and reach out if you’d like to collaborate! 😊  
+### **[FloatChat](https://www.google.com/search?q=https://github.com/shaktisingh5580/FloatChat)**
+
+A full-stack AI application for conversational exploration of oceanographic data.
+
+  * **Tech Stack**: Python, LangChain, OpenAI API.
+  * **Core Features**: Allows users to query complex ARGO ocean data using natural language, making marine science accessible through interactive chat.
+
+### **[Brew & Bloom Cafe](https://www.google.com/search?q=https://github.com/shaktisingh5580/Brew-and-Bloom)**
+
+A professional web presence for a local Surat-based cafe, showcasing high-end web development and UI/UX design.
+
+  * **Tech Stack**: React/Vite, Tailwind CSS.
+  * **Core Features**: Responsive menu display, aesthetic branding, and seamless user experience for cafe patrons.
+
+### **[Sentinel-2 Satellite Analysis (TTC '26)](https://www.google.com/search?q=https://github.com/shaktisingh5580/Sentinel-SNN)**
+
+Developed for the **Tic Tech Toe '26** hackathon at DA-IICT.
+
+  * **Tech Stack**: Python, TensorFlow/PyTorch, Sentinel-2 Satellite Data.
+  * **Core Features**: Utilizing Simple Neural Networks (SNN) to analyze satellite imagery for environmental monitoring and geographical insights.
+
+### **[AI Event Management Portal](https://www.google.com/search?q=https://github.com/shaktisingh5580/AI-Event-Portal)**
+
+A specialized portal built for organizing technical events, including a Harry Potter-themed "Triwizard Tournament" UI.
+
+  * **Tech Stack**: React, Supabase, Framer Motion.
+  * **Core Features**: Automated registration workflows, dynamic leaderboards, and immersive themed interfaces for student hackathons.
+
+-----
+
+## 🤝 Communities & Teams
+
+### **[PFL (Programming for Losers Club)](https://shaktisingh5580.github.io/PROGRAMING-FOR-LOOSERS-CLUB-/)**
+
+A student-led technical community I founded to bridge the gap between learning and building.
+
+  * **Philosophy**: We start as "losers" in the face of complex code, but grow into winners through collaboration.
+  * **Focus**: Peer-to-peer mentorship, project building, and "vibe coding."
+
+### **[suspicious link removed]**
+
+The digital home for my district-level Kabaddi team.
+
+  * **Features**: Player profiles and match schedules, inspired by the strength and values of Lord Ram and Lord Hanuman.
+
+-----
+
+## 🛠️ Tech Stack & Skills
+
+  * **Languages**: Python (Primary), JavaScript, C++.
+  * **AI/ML**: YOLOv8, LangChain, Agentic Workflows, EasyOCR.
+  * **Web**: React, Vite, Shopify Storefront API, Supabase, Tailwind CSS.
+  * **Tools**: Firebase, Git, LaTeX.
+
+-----
+
+## 📫 Let's Connect\!
+
+I'm always open to collaborating on AI-native projects, headless e-commerce builds, or anything that pushes the boundaries of automation.
+
+  * **Location**: Surat, Gujarat, India
+  * **Current Focus**: Preparing for CDS & Building Agentic Systems
